@@ -40,4 +40,6 @@ Use the technologies that our web app uses (Typescript, Bootstrap/React Bootstra
 
 List of employees can be found from the `users.json` file and timesheets from `timesheets.json`.
 
+Once you are done push your project to Github and send the link the person you are in contact with.
+
 If you have question don't hesitate to ask.
